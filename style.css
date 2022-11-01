@@ -1,0 +1,21 @@
+body
+{
+    background-position: center;
+}
+
+#heading {
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+#InstructionsButton {
+    float: right;
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+#startButton, #status {
+    font-size: 17px;
+}
+
